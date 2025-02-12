@@ -28,7 +28,7 @@ Be sure that you have git installed on your local machine. You will also need to
 
 1. Get the URL of the repo of one of your team members in the breakout room.
 2. Go up a directory (so that you’re no longer in your project directory).
-3. Clone your group member’s repo to your VM (`git clone ...`).
+3. Clone your group member’s repo to your local machine.
 4. Be mindful of what branch you are on.
 5. Add a third print statement to `main.py` (do not modify anything else).
 6. Stage and commit the changes with the message:

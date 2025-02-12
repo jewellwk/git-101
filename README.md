@@ -6,13 +6,13 @@
 
 The goal of these exercises is to give you practice with basic git operations. Follow the steps in each of the exercises. Please note that more than one command might be required to perform some of the steps.
 
-You will also need to have created a personal access token to push your repo to GitHub.
+Be sure that you have git installed on your local machine. You will also need to have authenticated to GitHub via your IDE (Note: This may require a personal access token(**PAT**)).
 
 ---
 
 ### Exercise 1
 
-1. Create a project folder named `your_first_name_exercise1` (use your first name) and initialize it as a git repo.
+1. Clone the repository created from GitHub classroom to your local machine.
 2. Create a Python file `main.py` in the project folder that has one print statement.
 3. Stage and commit the changes to the repo with the message:
    - `added first print statement`
@@ -20,8 +20,7 @@ You will also need to have created a personal access token to push your repo to 
 5. Stage and commit the changes to the repo with the message:
    - `added second print statement`
 6. Type: `git log`. Take a screenshot of the output.
-7. Create a remote that’s associated with the URL of the repo (`git push`).
-8. On the GitHub site, take a screenshot of the contents of the `main.py` file. (The screenshot should include the URL of the repo in the address bar.)
+7. Sync your changes to the repo using (`git push`).
 
 ---
 
